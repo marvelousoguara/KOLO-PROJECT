@@ -1,0 +1,24 @@
+first_name,last_name,email,job_title,company,company_domain,country,industry,employees,score,tier
+Adaeze,Okafor,adaeze@paystride.ng,Co-Founder & CEO,Paystride,paystride.ng,Nigeria,Fintech,45,7,hot
+Tunde,Bello,tunde.bello@kobofreight.com,Head of Operations,Kobo Freight,kobofreight.com,Nigeria,Logistics,120,7,hot
+Kemi,Adeyemi,kemi@afrohealth.io,Marketing Coordinator,Afrohealth Labs,afrohealth.io,Nigeria,Healthtech,18,4,warm
+James,Whitfield,james@tillybooks.co.uk,VP Sales,Tilly Books,tillybooks.co.uk,United Kingdom,SaaS,60,7,hot
+Chinedu,Eze,chinedu.eze@greenfieldagro.ng,Director of Finance,Greenfield Agro,greenfieldagro.ng,Nigeria,Agriculture,300,3,warm
+Priya,Nair,priya@nimbushr.com,Software Engineer,Nimbus HR,nimbushr.com,India,SaaS,150,4,warm
+Grace,Mensah,grace@lumenschools.org,Founder,Lumen Schools,lumenschools.org,Ghana,Edtech,35,5,warm
+Wanjiru,Kamau,wanjiru@rivetlogistics.co.ke,CTO,Rivet Logistics,rivetlogistics.co.ke,Kenya,Logistics,80,7,hot
+Tom,Harbor,tom@harborco.com,Managing Partner,Harbor & Co,harborco.com,United States,Consulting,9,0,cold
+Kwame,Asante,kwame@calabashpay.gh,Ops Coordinator,Calabash Pay,calabashpay.gh,Ghana,Fintech,22,4,warm
+Sofia,Reyes,sofia@mintmetrics.io,Head of Growth,Mint Metrics,mintmetrics.io,United States,SaaS,210,5,warm
+Thabo,Nkosi,thabo@bloomretail.co.za,COO,Bloom Retail,bloomretail.co.za,South Africa,Retail,900,3,warm
+Ifeoma,Nwosu,ifeoma@quillonlegal.com,Associate,Quillon Legal,quillonlegal.com,Nigeria,Legal,14,2,cold
+Musa,Ibrahim,musa@sunrise-energy.ng,CEO,Sunrise Energy,sunrise-energy.ng,Nigeria,,,3,warm
+Achieng,Otieno,achieng@orbitclinics.ke,Head of Partnerships,Orbit Clinics,orbitclinics.ke,Kenya,,,3,warm
+Femi,Adebayo,femi@paystride.ng,Sales Associate,Paystride,paystride.ng,Nigeria,Fintech,45,4,warm
+Zainab,Yusuf,zainab@kobofreight.com,Customer Success Lead,Kobo Freight,kobofreight.com,Nigeria,Logistics,120,4,warm
+Oliver,Grant,oliver@nimbushr.com,Director of Marketing,Nimbus HR,nimbushr.com,United Kingdom,SaaS,150,7,hot
+Amara,Obi,amara.obi@afrohealth.io,CTO,Afrohealth Labs,afrohealth.io,Nigeria,Healthtech,18,7,hot
+Daniel,Osei,daniel@calabashpay.gh,Founder & CEO,Calabash Pay,calabashpay.gh,Ghana,Fintech,22,7,hot
+Lerato,Dlamini,lerato@bloomretail.co.za,Store Manager,Bloom Retail,bloomretail.co.za,South Africa,Retail,900,0,cold
+Hassan,Ali,hassan@rivetlogistics.co.ke,Head of Sales,Rivet Logistics,rivetlogistics.co.ke,Kenya,Logistics,80,7,hot
+Efe,Omoregie,efe@greenfieldagro.ng,Farm Manager,Greenfield Agro,greenfieldagro.ng,Nigeria,Agriculture,300,0,cold
